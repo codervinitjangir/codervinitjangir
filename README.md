@@ -31,6 +31,11 @@ I am a professional developer focused on building secure infrastructure and cont
 
 ---
 
+### 🐍 My Contribution Snake
+![Snake animation](https://github.com/codervinitjangir/codervinitjangir/blob/output/github-snake-dark.svg)
+
+---
+
 ### 📫 Connect with me
 - **GitHub:** [codervinitjangir](https://github.com/codervinitjangir)
 - **Status:** Exploring GSoC 2026 & AI Research Opportunities.
