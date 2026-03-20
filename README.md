@@ -31,9 +31,17 @@
 
 <!-- ─── THE SYSTEM TERMINAL ──────────────────────────────────────────────── -->
 
-<img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2bm95MnlueXozYmd4cmNxZHN5enB4b3phem96enp6enp6enp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsfXN8S1aXUf4M9uI/giphy.gif" alt="Cyberpunk Core GIF"/>
+<div align="center">
 
 ### `> system --status`
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2bm95MnlueXozYmd4cmNxZHN5enB4b3phem96enp6enp6enp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsfXN8S1aXUf4M9uI/giphy.gif" width="100%" alt="Cyberpunk Core GIF"/>
+
+<br>
+
+</div>
 
 ```python
 class VinitJangir:
@@ -73,8 +81,6 @@ class VinitJangir:
             if self.is_night():
                 self.debug(coffee=True)
 ```
-
-<br clear="both">
 
 ---
 
@@ -157,7 +163,7 @@ class VinitJangir:
 <br>
 
 <a href="https://github.com/codervinitjangir">
-  <img src="https://github-profile-trophy.vercel.app/?username=codervinitjangir&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=codervinitjangir&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
 </a>
 
 <br><br>
