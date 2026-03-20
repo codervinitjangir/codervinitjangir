@@ -15,7 +15,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/codervinitjangir?label=Followers&style=for-the-badge&color=FF0000&logo=github)](https://github.com/codervinitjangir)
 &nbsp;&nbsp;
-[![GSoC 2026](https://img.shields.io/badge/GSoC-2026_Aspirant-FFD700?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
+[![Open Source Sentinel](https://img.shields.io/badge/Open_Source-Sentinel-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/codervinitjangir)
 &nbsp;&nbsp;
 [![License](https://img.shields.io/github/license/codervinitjangir/codervinitjangir?style=for-the-badge&color=FF0000)](https://github.com/codervinitjangir/codervinitjangir/blob/main/LICENSE)
 &nbsp;&nbsp;
@@ -41,29 +41,29 @@
 class VinitJangir:
     """
     Elite Full-Stack Architect & Open Source Contributor.
-    Engineering next-gen systems at the intersection of OS-Security and Deep Learning.
+    Engineering next-gen systems at the intersection of AI-Agents and Cyber-Security.
     """
 
     def __init__(self):
         self.identity   = "Vinit Jangir"
-        self.focus      = ["Infrastructure", "Artificial Intelligence", "Cybersecurity"]
+        self.focus      = ["Autonomous AI", "Neural Infrastructure", "Cybersecurity"]
         self.education  = "Medhavi Skills University × Polaris School of Technology"
         self.status     = "Executing mission-critical code"
 
     def get_open_source_impact(self):
         return {
             "organizations" : ["pgmpy", "sktime"],
-            "targets_2026"  : ["Joomla", "ScummVM", "GSoC"],
-            "achievements"  : ["Summer of Bitcoin 2026 Applicant"],
+            "badges"        : ["Open Source Sentinel"],
+            "targets_2026"  : ["Scaling AI Infrastructure", "Deep Learning Research"],
             "philosophy"    : "If it's not open, it's not broken... yet."
         }
 
     def current_infrastructure(self):
         return [
+            "🤖 AgenticFlow — Autonomous AI Task Management Ecosystem",
             "🛡️ VIGIL       — OS-Level Lockdown for Secure Exam Integrity",
-            "🤖 FRIDAY      — AI Personal Assistant with Modular Intel",
-            "📊 SHINRA      — Financial Intelligence Engine for SIH 2025",
-            "🏫 CONNECT     — Scalable Mentoring & Community Leadership"
+            "🚀WORKSPACE   — AI-Powered Premium Productivity Suite",
+            "💱 CONVERTER   — High-Performance Offline-First Currency PWA"
         ]
 
     def execute_global_logic(self):
@@ -128,39 +128,40 @@ class VinitJangir:
 <br>
 
 > [!IMPORTANT]
+> **AgenticFlow — Autonomous AI Task Manager**
+> <br>An advanced AI ecosystem featuring real-time voice interaction (Whisper/ElevenLabs), tool-calling, and long-term memory via RAG (Supabase + pgvector). Designed for hands-free intelligence.
+> <br>[**View Intelligent Core**](https://github.com/codervinitjangir/AgenticFlow)
+
+<br>
+
+> [!TIP]
 > **VIGIL (ProctoShield) — Secure Exam Ecosystem**
 > <br>Implemented a system-level lockdown for remote assessments. Features AI-driven proctoring, real-time activity monitoring, and unauthorized application suppression to ensure 100% academic integrity.
 > <br>[**View Infrastructure**](https://github.com/codervinitjangir/Ai-secure-exam-browser)
 
 <br>
 
-> [!TIP]
-> **FRIDAY — Modular Personal Intelligence**
-> <br>A voice-activated, Iron Man-inspired AI assistant. Engineered with advanced NLP to handle personalized automation, real-time web intelligence, and multi-modal task execution.
-> <br>[**View Intelligent Core**](https://github.com/codervinitjangir)
+> [!NOTE]
+> **AI Productivity Workspace — Premium Ecosystem**
+> <br>A glassmorphic dashboard featuring voice-first UI, autonomous AI scheduling, and smart task decomposition. Built with an action-focused AI Dock and high-performance state management.
+> <br>[**View Productivity Suite**](https://github.com/codervinitjangir/AI-powered-Productivity-App)
 
 <br>
 
-> [!NOTE]
-> **SHINRA — AI Financial Forecasting Ecosystem**
-> <br>Built for Smart India Hackathon 2025. Utilizes predictive analytics and neural networks to simplify complex financial forecasting for everyday users.
-> <br>[**View Analytical Engine**](https://github.com/codervinitjangir)
+> [!WARNING]
+> **Currency Converter PWA — Offline-First Engine**
+> <br>A high-performance Progressive Web App with real-time API sync and IndexedDB architecture. Engineered for 100% reliability even without internet connectivity.
+> <br>[**View Offline Engine**](https://github.com/codervinitjangir/currency-converter)
 
 ---
 
-<!-- ─── IMPACT & TROPHIES ──────────────────────────────────────────────── -->
+<!-- ─── IMPACT & ANALYTICS ──────────────────────────────────────────────── -->
 
 <div align="center">
 
-### 🏆 Excellence & Impact
+### 📊 Excellence & Analytics
 
 <br>
-
-<a href="https://github.com/codervinitjangir">
-  <img src="https://github-profile-trophy-one.vercel.app/?username=codervinitjangir&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
-</a>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codervinitjangir&theme=redical&bg_color=0D1117&color=FF0000&line=FFD700&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" />
 
@@ -168,11 +169,9 @@ class VinitJangir:
 
 ---
 
-<!-- ─── ADVANCED ANALYTICS ─────────────────────────────────────────────── -->
-
 <div align="center">
 
-### 📊 System Analytics
+### ⚡ System Performance
 
 <br>
 
