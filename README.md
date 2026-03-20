@@ -35,12 +35,6 @@
 
 ### `> system --status`
 
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2bm95MnlueXozYmd4cmNxZHN5enB4b3phem96enp6enp6enp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsfXN8S1aXUf4M9uI/giphy.gif" width="100%" alt="Cyberpunk Core GIF"/>
-
-<br>
-
 </div>
 
 ```python
