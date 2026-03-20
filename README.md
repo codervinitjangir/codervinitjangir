@@ -7,7 +7,7 @@
 
 <!-- ─── UNBEATABLE HEADER SECTION ─────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,5,20&height=280&section=header&text=Vinit%20Jangir&fontSize=80&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20OSS%20Contributor&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,5,20&height=280&section=header&text=Vinit%20Jangir&fontSize=70&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20OSS%20Contributor&descAlignY=75&descSize=18" width="100%" />
 
 <br>
 
@@ -31,47 +31,47 @@
 
 <!-- ─── THE SYSTEM TERMINAL ──────────────────────────────────────────────── -->
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRxN29mbGRqcnVvNDVxaGhzdmNycHRjZnIydWs5NDRneGFiOXc2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2bm95MnlueXozYmd4cmNxZHN5enB4b3phem96enp6enp6enp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsfXN8S1aXUf4M9uI/giphy.gif" alt="Cyberpunk Core GIF"/>
 
 ### `> system --status`
 
 ```python
 class VinitJangir:
     """
-    World-Class Developer & Open Source Advocate.
-    Engineering robust architectures with a focus on AI/ML integration.
+    Elite Full-Stack Architect & Open Source Contributor.
+    Engineering next-gen systems at the intersection of OS-Security and Deep Learning.
     """
 
     def __init__(self):
         self.identity   = "Vinit Jangir"
-        self.focus      = ["Infrastructure", "Artificial Intelligence", "Full-Stack"]
-        self.learning   = "Medhavi Skills University × Polaris School of Technology"
-        self.status     = "Available for high-impact collaborations"
+        self.focus      = ["Infrastructure", "Artificial Intelligence", "Cybersecurity"]
+        self.education  = "Medhavi Skills University × Polaris School of Technology"
+        self.status     = "Executing mission-critical code"
 
-    @property
-    def open_source_impact(self):
+    def get_open_source_impact(self):
         return {
-            "contributions" : ["pgmpy", "sktime"],
-            "gsoc_target"   : ["Joomla", "ScummVM"],
-            "achievements"  : ["Summer of Bitcoin 2026 Applicant", "Top Contributor Potential"],
-            "vision"        : "Democratizing AI through open-source tooling."
+            "organizations" : ["pgmpy", "sktime"],
+            "targets_2026"  : ["Joomla", "ScummVM", "GSoC"],
+            "achievements"  : ["Summer of Bitcoin 2026 Applicant"],
+            "philosophy"    : "If it's not open, it's not broken... yet."
         }
 
-    @property
-    def project_landscape(self):
+    def current_infrastructure(self):
         return [
-            "🛡️ VIGIL       — OS-Level Secure Exam Ecosystem",
-            "🤖 FRIDAY      — Modular Personal Intelligence Assistant",
-            "📊 SHINRA      — AI-Powered Financial Neural Network",
-            "🌍 CONNECT     — Mentoring the next-gen tech cohort"
+            "🛡️ VIGIL       — OS-Level Lockdown for Secure Exam Integrity",
+            "🤖 FRIDAY      — AI Personal Assistant with Modular Intel",
+            "📊 SHINRA      — Financial Intelligence Engine for SIH 2025",
+            "🏫 CONNECT     — Scalable Mentoring & Community Leadership"
         ]
 
-    def execute_logic(self):
-        while self.is_alive():
-            self.code()
-            self.contribute()
-            self.mentor()
-            self.evolve()
+    def execute_global_logic(self):
+        while True:
+            self.solve_complex_problems()
+            self.contribute_to_oss()
+            self.mentor_next_gen()
+            self.upgrade_personal_stack()
+            if self.is_night():
+                self.debug(coffee=True)
 ```
 
 <br clear="both">
@@ -117,21 +117,34 @@ class VinitJangir:
 
 ---
 
-<!-- ─── FEATURED PROJECTS TABLE ─────────────────────────────────────────── -->
+<!-- ─── FEATURED PROJECTS SHOWCASE ─────────────────────────────────────────── -->
 
 <div align="center">
 
-### 🏗️ Global Infrastructure Projects
+### 🏗️ Global Infrastructure Showcase
+
+</div>
 
 <br>
 
-| Project | Core Objectives | Tech Stack |
-| :--- | :--- | :--- |
-| **VIGIL (ProctoShield)** | OS-level security for exams. Feature-rich proctoring hub with system lockdown and AI surveillance. | `React` `Node.js` `MongoDB` |
-| **FRIDAY (AI Assistant)** | Advanced voice-activated AI inspired by Stark Industries. Integrated web search, automation, and NLP. | `Python` `TensorFlow` `Deep Learning` |
-| **SHINRA (Finance Bot)** | SIH 2025 Submission. Predictive financial analytics and market intelligence for non-experts. | `React` `Python` `AI Models` |
+> [!IMPORTANT]
+> **VIGIL (ProctoShield) — Secure Exam Ecosystem**
+> <br>Implemented a system-level lockdown for remote assessments. Features AI-driven proctoring, real-time activity monitoring, and unauthorized application suppression to ensure 100% academic integrity.
+> <br>[**View Infrastructure**](https://github.com/codervinitjangir/Ai-secure-exam-browser)
 
-</div>
+<br>
+
+> [!TIP]
+> **FRIDAY — Modular Personal Intelligence**
+> <br>A voice-activated, Iron Man-inspired AI assistant. Engineered with advanced NLP to handle personalized automation, real-time web intelligence, and multi-modal task execution.
+> <br>[**View Intelligent Core**](https://github.com/codervinitjangir)
+
+<br>
+
+> [!NOTE]
+> **SHINRA — AI Financial Forecasting Ecosystem**
+> <br>Built for Smart India Hackathon 2025. Utilizes predictive analytics and neural networks to simplify complex financial forecasting for everyday users.
+> <br>[**View Analytical Engine**](https://github.com/codervinitjangir)
 
 ---
 
@@ -143,7 +156,9 @@ class VinitJangir:
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codervinitjangir&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<a href="https://github.com/codervinitjangir">
+  <img src="https://github-profile-trophy.vercel.app/?username=codervinitjangir&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</a>
 
 <br><br>
 
