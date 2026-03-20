@@ -1,17 +1,48 @@
-# 🚀 Hi, I'm Vinit Jangir!
+👨‍💻 whoami (The Developer Identity)
 
-### 👨‍💻 Full Stack Developer | AI Enthusiast | Open Source Contributor
+class VinitJangir:
+    def __init__(self):
+        self.name = "Vinit Jangir"
+        self.role = "Full Stack Developer & AI Enthusiast"
+        self.education = "Polaris School of Technology"
+        self.superpower = "Turning coffee into scalable code ☕"
 
-I am a professional developer focused on building secure infrastructure and contributing to the global AI/ML ecosystem.
+    def get_current_missions(self):
+        return {
+            "building": "VIGIL (Secure Exam Browser) & Friday (Personal AI)",
+            "contributing": ["pgmpy", "sktime", "Open Source ML Ecosystem"],
+            "mentoring": "Guiding the next-gen tech talent at Campus Connect",
+            "exploring": "Advanced System Design & Deep Learning"
+        }
 
----
 
-### 🌟 Professional Impact
-- **Open Source:** Actively contributing to top-tier Python ML libraries like **pgmpy** and **sktime**, enhancing probabilistic models and time-series analysis.
-- **Security Engineering:** Architecting **VIGIL**, a high-security exam browser designed to ensure academic integrity.
-- **AI/ML Innovation:** Developed **Friday**, a custom personal AI ecosystem built for automated workflow management.
-- **Community Leadership:** Serving as a Mentor at **Campus Connect**, guiding students in modern tech stacks.
+🚀 Tech Arsenal & Tools
 
+Languages & Core 
+
+
+
+
+Frontend & Design 
+
+
+
+
+Backend & Databases 
+
+
+
+
+Tools & Architecture 
+
+
+
+
+🏆 GitHub Analytics & Trophies
+
+🐍 Contribution Graph Activity
+
+📫 Let's Connect & Collaborate!
 ---
 
 ### 🛠 Tech Stack
