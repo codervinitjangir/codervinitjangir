@@ -41,12 +41,12 @@
 class VinitJangir:
     """
     Elite Full-Stack Architect & Open Source Contributor.
-    Engineering next-gen systems at the intersection of AI-Agents and Cyber-Security.
+    Engineering next-gen systems at the intersection of AI-Agents and OS-Security.
     """
 
     def __init__(self):
         self.identity   = "Vinit Jangir"
-        self.focus      = ["Autonomous AI", "Neural Infrastructure", "Cybersecurity"]
+        self.focus      = ["Autonomous AI", "Neural Infrastructure", "Neural Defense"]
         self.education  = "Medhavi Skills University × Polaris School of Technology"
         self.status     = "Executing mission-critical code"
 
