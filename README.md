@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+Architecting+Scalable+AI+Solutions;%3E+Contributing+to+Open+Source+Global+Infrastructure;%3E+Innovating+One+Commit+At+A+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+Architecting+Scalable+AI+Solutions;%3E+Specialized+in+Data+Structures+%26+Algorithms;%3E+Contributing+to+Global+ML+Infrastructure;%3E+Innovating+One+Commit+At+A+Time" alt="Typing SVG" />
 
 </div>
 
@@ -40,41 +40,66 @@
 ```python
 class VinitJangir:
     """
-    Elite Full-Stack Architect & Open Source Contributor.
-    Engineering next-gen systems at the intersection of AI-Agents and OS-Security.
+    Full-Stack Architect & AI/ML Specialist.
+    Passionate about building scalable backend architectures and intelligent systems.
     """
 
     def __init__(self):
         self.identity   = "Vinit Jangir"
-        self.focus      = ["Autonomous AI", "Neural Infrastructure", "Neural Defense"]
-        self.education  = "Medhavi Skills University × Polaris School of Technology"
-        self.status     = "Executing mission-critical code"
+        self.education  = "B.Tech CS (AI & ML) @ Polaris School of Technology"
+        self.expertise  = ["Backend Architecture", "AI Integration", "Cloud DevOps"]
+        self.dsa_status = "Solved 250+ Problems"
 
     def get_open_source_impact(self):
         return {
-            "organizations" : ["pgmpy", "sktime"],
-            "badges"        : ["Open Source Sentinel"],
-            "targets_2026"  : ["Scaling AI Infrastructure", "Deep Learning Research"],
-            "philosophy"    : "If it's not open, it's not broken... yet."
+            "focus"         : "Optimizing inference algorithms and fixing bugs in ML libraries",
+            "organizations" : ["pgmpy", "sktime", "aiondemand", "p5.js", "openml-python"],
+            "events"        : ["Hacktoberfest", "ESOC"]
         }
 
-    def current_infrastructure(self):
-        return [
-            "🤖 AgenticFlow — Autonomous AI Task Management Ecosystem",
-            "🛡️ VIGIL       — OS-Level Lockdown for Secure Exam Integrity",
-            "🚀WORKSPACE   — AI-Powered Premium Productivity Suite",
-            "💱 CONVERTER   — High-Performance Offline-First Currency PWA"
-        ]
-
-    def execute_global_logic(self):
+    def execute_daily_routine(self):
         while True:
             self.solve_complex_problems()
             self.contribute_to_oss()
-            self.mentor_next_gen()
-            self.upgrade_personal_stack()
+            self.scale_systems(docker=True, k8s=True)
             if self.is_night():
                 self.debug(coffee=True)
 ```
+
+---
+
+<!-- ─── MILESTONES & RECOGNITION ────────────────────────────────────────── -->
+
+<div align="center">
+
+### 🏅 Milestones & Global Impact
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td><strong>DSA Specialist</strong></td>
+    <td>Conquered 250+ complex Data Structures & Algorithms problems.</td>
+  </tr>
+  <tr>
+    <td><strong>Open Source Champion</strong></td>
+    <td>Active contributor to <code>pgmpy</code>, <code>sktime</code>, <code>p5.js</code>, <code>openml-python</code>.</td>
+  </tr>
+  <tr>
+    <td><strong>Code Optimization</strong></td>
+    <td>Optimized inference algorithms & fixed bugs in high-scale ML libraries.</td>
+  </tr>
+  <tr>
+    <td><strong>Hackathon Veteran</strong></td>
+    <td>Contributed heavily during <strong>ESOC</strong> and <strong>Hacktoberfest</strong>.</td>
+  </tr>
+  <tr>
+    <td><strong>Community Leadership</strong></td>
+    <td>Organizing Committee Member & Anchor at <strong>Polaris School of Technology</strong>.</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -88,27 +113,27 @@ class VinitJangir:
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><strong>Core Languages & Logic</strong></td>
-    <td width="50%" align="center"><strong>Frontend Engineering</strong></td>
+    <td width="50%" align="center"><strong>Core & Languages</strong></td>
+    <td width="50%" align="center"><strong>Backend & Frameworks</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,bash&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,cpp,bash&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,redux&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase,sqlite&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend & Systems</strong></td>
-    <td align="center"><strong>Infrastructure & Tools</strong></td>
+    <td align="center"><strong>DevOps & Infrastructure</strong></td>
+    <td align="center"><strong>AI & Data Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,sqlite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git,github,linux&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,postman,figma,vite&theme=dark" />
     </td>
   </tr>
 </table>
@@ -127,31 +152,36 @@ class VinitJangir:
 
 <br>
 
-> [!IMPORTANT]
-> **AgenticFlow — Autonomous AI Task Manager**
-> <br>An advanced AI ecosystem featuring real-time voice interaction (Whisper/ElevenLabs), tool-calling, and long-term memory via RAG (Supabase + pgvector). Designed for hands-free intelligence.
-> <br>[**View Intelligent Core**](https://github.com/codervinitjangir/AgenticFlow)
-
-<br>
-
-> [!TIP]
-> **VIGIL (ProctoShield) — Secure Exam Ecosystem**
-> <br>Implemented a system-level lockdown for remote assessments. Features AI-driven proctoring, real-time activity monitoring, and unauthorized application suppression to ensure 100% academic integrity.
-> <br>[**View Infrastructure**](https://github.com/codervinitjangir/Ai-secure-exam-browser)
-
-<br>
-
-> [!NOTE]
-> **AI Productivity Workspace — Premium Ecosystem**
-> <br>A glassmorphic dashboard featuring voice-first UI, autonomous AI scheduling, and smart task decomposition. Built with an action-focused AI Dock and high-performance state management.
-> <br>[**View Productivity Suite**](https://github.com/codervinitjangir/AI-powered-Productivity-App)
-
-<br>
-
-> [!WARNING]
-> **Currency Converter PWA — Offline-First Engine**
-> <br>A high-performance Progressive Web App with real-time API sync and IndexedDB architecture. Engineered for 100% reliability even without internet connectivity.
-> <br>[**View Offline Engine**](https://github.com/codervinitjangir/currency-converter)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/codervinitjangir/AgenticFlow">
+        <img src="https://img.shields.io/badge/AgenticFlow-Autonomous_AI-FF0000?style=for-the-badge&logo=openai" />
+      </a>
+      <br>Advanced AI ecosystem with voice interaction, tool-calling, and RAG memory.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/codervinitjangir/Ai-secure-exam-browser">
+        <img src="https://img.shields.io/badge/VIGIL-Secure_Proctoring-FFD700?style=for-the-badge&logo=shield" />
+      </a>
+      <br>System-level lockdown for remote assessments with AI proctoring.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/codervinitjangir/AI-powered-Productivity-App">
+        <img src="https://img.shields.io/badge/Productivity-AI_Workspace-FF0000?style=for-the-badge&logo=lightning" />
+      </a>
+      <br>Glassmorphic dashboard with voice-first UI and autonomous scheduling.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/codervinitjangir/currency-converter">
+        <img src="https://img.shields.io/badge/Flux_Currency-Offline_PWA-FFD700?style=for-the-badge&logo=cache" />
+      </a>
+      <br>High-performance offline-first engine with real-time API sync.
+    </td>
+  </tr>
+</table>
 
 ---
 
