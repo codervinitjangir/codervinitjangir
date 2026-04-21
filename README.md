@@ -11,15 +11,11 @@
 
 <br>
 
-<!-- ─── QUICK SPECS ROW ─────────────────────────────────────────────────── -->
+<!-- ─── PROFILE VIEWS ────────────────────────────────────────────────── -->
 
-[![GitHub followers](https://img.shields.io/github/followers/codervinitjangir?label=Followers&style=for-the-badge&color=FF0000&logo=github)](https://github.com/codervinitjangir)
-&nbsp;&nbsp;
-[![Open Source Sentinel](https://img.shields.io/badge/Open_Source-Sentinel-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/codervinitjangir)
-&nbsp;&nbsp;
-[![License](https://img.shields.io/github/license/codervinitjangir/codervinitjangir?style=for-the-badge&color=FF0000)](https://github.com/codervinitjangir/codervinitjangir/blob/main/LICENSE)
-&nbsp;&nbsp;
 [![Profile Views](https://hits.dwyl.com/codervinitjangir/codervinitjangir.svg?style=for-the-badge&color=FFD700)](https://github.com/codervinitjangir/codervinitjangir)
+
+<br>
 
 <br><br>
 
@@ -239,6 +235,16 @@ class VinitJangir:
 <br>
 
 _"Logic will get you from A to B. Imagination will take you everywhere."_
+
+<br>
+
+<!-- ─── STATUS BADGES ─────────────────────────────────────────────────── -->
+
+[![GitHub followers](https://img.shields.io/github/followers/codervinitjangir?label=Followers&style=for-the-badge&color=FF0000&logo=github)](https://github.com/codervinitjangir)
+&nbsp;&nbsp;
+[![Open Source Sentinel](https://img.shields.io/badge/Open_Source-Sentinel-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/codervinitjangir)
+&nbsp;&nbsp;
+[![License](https://img.shields.io/github/license/codervinitjangir/codervinitjangir?style=for-the-badge&color=FF0000)](https://github.com/codervinitjangir/codervinitjangir/blob/main/LICENSE)
 
 </div>
 
