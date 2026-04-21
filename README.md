@@ -11,13 +11,7 @@
 
 <br>
 
-<!-- ─── PROFILE VIEWS ────────────────────────────────────────────────── -->
-
-[![Profile Views](https://hits.dwyl.com/codervinitjangir/codervinitjangir.svg?style=for-the-badge&color=FFD700)](https://github.com/codervinitjangir/codervinitjangir)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-vinitjangir.pages.dev-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinitjangir.pages.dev/)
-
-<br>
+<br><br>
 
 <br><br>
 
@@ -38,21 +32,19 @@
 ```python
 class VinitJangir:
     """
-    Full-Stack Architect & AI/ML Specialist.
-    Passionate about building scalable backend architectures and intelligent systems.
+    Architecting full-stack ecosystems and deploying high-performance AI models.
+    Bridging the gap between raw data and kinetic logic.
     """
 
     def __init__(self):
         self.identity   = "Vinit Jangir"
         self.education  = "B.Tech CS (AI & ML) @ Polaris School of Technology"
-        self.expertise  = ["Backend Architecture", "AI Integration", "Cloud DevOps"]
-        self.dsa_status = "Solved 250+ Problems"
+        self.dsa_status = "Python isn't my crutch — it's my scalpel. (250+ Solved)"
 
     def get_open_source_impact(self):
         return {
             "focus"         : "Optimizing inference algorithms and fixing bugs in ML libraries",
-            "organizations" : ["pgmpy", "sktime", "aiondemand", "p5.js", "openml-python"],
-            "events"        : ["ESOC"]
+            "organizations" : ["pgmpy", "sktime", "aiondemand", "p5.js", "openml-python"]
         }
 
     def execute_daily_routine(self):
@@ -154,29 +146,29 @@ class VinitJangir:
   <tr>
     <td width="50%">
       <a href="https://github.com/codervinitjangir/AgenticFlow">
-        <img src="https://img.shields.io/badge/AgenticFlow-Autonomous_AI-FF0000?style=for-the-badge&logo=openai" />
+        <img src="https://img.shields.io/badge/AgenticFlow-Workflow_Engine-FF0000?style=for-the-badge&logo=openai" />
       </a>
-      <br>Advanced AI ecosystem with <b>voice interaction</b>, tool-calling, and <b>RAG memory</b>. Smart task prioritizer with automated scheduling.
+      <br>Robust <b>workflow engine</b> for orchestrating task-oriented agents with complex dependencies and <b>RAG memory</b>.
     </td>
     <td width="50%">
       <a href="https://github.com/codervinitjangir/Ai-secure-exam-browser">
-        <img src="https://img.shields.io/badge/VIGIL-Secure_Proctoring-FFD700?style=for-the-badge&logo=shield" />
+        <img src="https://img.shields.io/badge/Vision-AI_Proctoring-FFD700?style=for-the-badge&logo=shield" />
       </a>
-      <br>Secure proctoring system with <b>real-time face detection</b> and tab-switch telemetry. Containerized with <b>Docker</b> for scaling.
+      <br>AI-powered platform designed to ensure <b>exam integrity</b> through real-time face detection and behavioral analysis.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://vinitjangir.pages.dev/">
-        <img src="https://img.shields.io/badge/Portfolio-Interactive_Web-FF0000?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/Portfolio-Kinetic_Logic-FF0000?style=for-the-badge&logo=react" />
       </a>
-      <br>Personal portfolio built with <b>Framer Motion</b> and <b>Tailwind CSS</b> to showcase engineering impact and projects.
+      <br>Interactive engineering showcase built with <b>Framer Motion</b>. Bridging high-tech aesthetics with functional depth.
     </td>
     <td width="50%">
       <a href="https://github.com/codervinitjangir/currency-converter">
-        <img src="https://img.shields.io/badge/Flux_Currency-Offline_PWA-FFD700?style=for-the-badge&logo=cache" />
+        <img src="https://img.shields.io/badge/Flux_Currency-Real--time_Intelligence-FFD700?style=for-the-badge&logo=cache" />
       </a>
-      <br>High-performance offline-first tracker with live data polling for <b>150+ global currency pairs</b> and IndexedDB.
+      <br>Real-time <b>currency intelligence</b> platform supporting 150+ global pairs with instant updates and IndexedDB sync.
     </td>
   </tr>
 </table>
@@ -242,11 +234,13 @@ _"Logic will get you from A to B. Imagination will take you everywhere."_
 
 <!-- ─── STATUS BADGES ─────────────────────────────────────────────────── -->
 
-[![GitHub followers](https://img.shields.io/github/followers/codervinitjangir?label=Followers&style=for-the-badge&color=FF0000&logo=github)](https://github.com/codervinitjangir)
+[![Profile Views](https://hits.dwyl.com/codervinitjangir/codervinitjangir.svg?style=for-the-badge&color=FFD700)](https://github.com/codervinitjangir/codervinitjangir)
 &nbsp;&nbsp;
 [![Open Source Sentinel](https://img.shields.io/badge/Open_Source-Sentinel-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/codervinitjangir)
 &nbsp;&nbsp;
 [![License](https://img.shields.io/github/license/codervinitjangir/codervinitjangir?style=for-the-badge&color=FF0000)](https://github.com/codervinitjangir/codervinitjangir/blob/main/LICENSE)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinitjangir.pages.dev-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinitjangir.pages.dev/)
 
 </div>
 
