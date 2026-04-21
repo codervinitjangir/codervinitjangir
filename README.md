@@ -14,6 +14,8 @@
 <!-- ─── PROFILE VIEWS ────────────────────────────────────────────────── -->
 
 [![Profile Views](https://hits.dwyl.com/codervinitjangir/codervinitjangir.svg?style=for-the-badge&color=FFD700)](https://github.com/codervinitjangir/codervinitjangir)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinitjangir.pages.dev-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinitjangir.pages.dev/)
 
 <br>
 
@@ -50,7 +52,7 @@ class VinitJangir:
         return {
             "focus"         : "Optimizing inference algorithms and fixing bugs in ML libraries",
             "organizations" : ["pgmpy", "sktime", "aiondemand", "p5.js", "openml-python"],
-            "events"        : ["Hacktoberfest", "ESOC"]
+            "events"        : ["ESOC"]
         }
 
     def execute_daily_routine(self):
@@ -87,7 +89,7 @@ class VinitJangir:
   </tr>
   <tr>
     <td><strong>Hackathon Veteran</strong></td>
-    <td>Contributed heavily during <strong>ESOC</strong> and <strong>Hacktoberfest</strong>.</td>
+    <td>Contributed heavily during <strong>ESOC</strong> and local innovation challenges.</td>
   </tr>
   <tr>
     <td><strong>Community Leadership</strong></td>
@@ -129,7 +131,7 @@ class VinitJangir:
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,git,github,linux&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,postman,figma,vite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,postman,figma,vite,redis,mysql&theme=dark" />
     </td>
   </tr>
 </table>
@@ -154,27 +156,27 @@ class VinitJangir:
       <a href="https://github.com/codervinitjangir/AgenticFlow">
         <img src="https://img.shields.io/badge/AgenticFlow-Autonomous_AI-FF0000?style=for-the-badge&logo=openai" />
       </a>
-      <br>Advanced AI ecosystem with voice interaction, tool-calling, and RAG memory.
+      <br>Advanced AI ecosystem with <b>voice interaction</b>, tool-calling, and <b>RAG memory</b>. Smart task prioritizer with automated scheduling.
     </td>
     <td width="50%">
       <a href="https://github.com/codervinitjangir/Ai-secure-exam-browser">
         <img src="https://img.shields.io/badge/VIGIL-Secure_Proctoring-FFD700?style=for-the-badge&logo=shield" />
       </a>
-      <br>System-level lockdown for remote assessments with AI proctoring.
+      <br>Secure proctoring system with <b>real-time face detection</b> and tab-switch telemetry. Containerized with <b>Docker</b> for scaling.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/codervinitjangir/AI-powered-Productivity-App">
-        <img src="https://img.shields.io/badge/Productivity-AI_Workspace-FF0000?style=for-the-badge&logo=lightning" />
+      <a href="https://vinitjangir.pages.dev/">
+        <img src="https://img.shields.io/badge/Portfolio-Interactive_Web-FF0000?style=for-the-badge&logo=react" />
       </a>
-      <br>Glassmorphic dashboard with voice-first UI and autonomous scheduling.
+      <br>Personal portfolio built with <b>Framer Motion</b> and <b>Tailwind CSS</b> to showcase engineering impact and projects.
     </td>
     <td width="50%">
       <a href="https://github.com/codervinitjangir/currency-converter">
         <img src="https://img.shields.io/badge/Flux_Currency-Offline_PWA-FFD700?style=for-the-badge&logo=cache" />
       </a>
-      <br>High-performance offline-first engine with real-time API sync.
+      <br>High-performance offline-first tracker with live data polling for <b>150+ global currency pairs</b> and IndexedDB.
     </td>
   </tr>
 </table>
@@ -262,7 +264,7 @@ _"Logic will get you from A to B. Imagination will take you everywhere."_
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinit_Jangir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitjangir)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-codervinitjangir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codervinitjangir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinitjangir.pages.dev-FFD700?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinitjangir.pages.dev/)
 
 <br><br>
 
