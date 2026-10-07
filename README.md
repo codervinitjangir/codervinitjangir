@@ -34,8 +34,8 @@
     <td>Optimized inference algorithms & fixed bugs in high-scale ML libraries.</td>
   </tr>
   <tr>
-    <td><strong>Hackathon Veteran</strong></td>
-    <td>Contributed heavily during <strong>ESOC</strong> and local innovation challenges.</td>
+    <td><strong>Smart India Hackathon '26</strong></td>
+    <td><strong>Grand Finalist</strong> — Problem Statement SIH26184 for Ministry of Home Affairs (I4C).</td>
   </tr>
   <tr>
     <td><strong>Community Leadership</strong></td>
@@ -99,30 +99,30 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/codervinitjangir/AgenticFlow">
-        <img src="https://img.shields.io/badge/AgenticFlow-Workflow_Engine-FF0000?style=for-the-badge&logo=openai" />
-      </a>
-      <br>Robust <b>workflow engine</b> for orchestrating task-oriented agents with complex dependencies and <b>RAG memory</b>.
-    </td>
-    <td width="50%">
       <a href="https://github.com/codervinitjangir/Ai-secure-exam-browser">
         <img src="https://img.shields.io/badge/Vision-AI_Proctoring-FFD700?style=for-the-badge&logo=shield" />
       </a>
-      <br>AI-powered platform designed to ensure <b>exam integrity</b> through real-time face detection and behavioral analysis.
+      <br>High-concurrency <b>exam platform</b> scaled to 1,500 students with BullMQ, Redis caching, and real-time Socket.IO.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/codervinitjangir/sahayak">
+        <img src="https://img.shields.io/badge/Sahayak-Dispatch_Engine-FF0000?style=for-the-badge&logo=fastapi" />
+      </a>
+      <br>Real-time <b>roadside dispatch system</b> with PostGIS geospatial ranking, Redis caching, and shadow-mode benchmarking.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://vinitjangir.pages.dev/">
-        <img src="https://img.shields.io/badge/Portfolio-Kinetic_Logic-FF0000?style=for-the-badge&logo=react" />
+      <a href="https://github.com/project-drishti-sih26">
+        <img src="https://img.shields.io/badge/Drishti-Cybercrime_Radar-FFD700?style=for-the-badge&logo=target" />
       </a>
-      <br>Interactive engineering showcase built with <b>Framer Motion</b>. Bridging high-tech aesthetics with functional depth.
+      <br><b>SIH '26 Grand Finale</b>: Mule-account interception radar with LightGBM, SHAP explainability, and H3 spatial indexing.
     </td>
     <td width="50%">
-      <a href="https://github.com/codervinitjangir/currency-converter">
-        <img src="https://img.shields.io/badge/Flux_Currency-Real--time_Intelligence-FFD700?style=for-the-badge&logo=cache" />
+      <a href="https://github.com/codervinitjangir/AgenticFlow">
+        <img src="https://img.shields.io/badge/AgenticFlow-Workflow_Engine-FF0000?style=for-the-badge&logo=openai" />
       </a>
-      <br>Real-time <b>currency intelligence</b> platform supporting 150+ global pairs with instant updates and IndexedDB sync.
+      <br>Robust <b>multi-agent orchestrator</b> for task-oriented agents with dependency resolution and <b>RAG memory</b>.
     </td>
   </tr>
 </table>
@@ -211,6 +211,10 @@ _"Logic will get you from A to B. Imagination will take you everywhere."_
 [![Direct Email](https://img.shields.io/badge/Email-vinitjangirr@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitjangirr@gmail.com)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinit_Jangir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitjangir)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-codervinitjangir-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/codervinitjangir)
+&nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-hardy__glee__46-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/hardy_glee_46)
 &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinitjangir.pages.dev-FFD700?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinitjangir.pages.dev/)
 
