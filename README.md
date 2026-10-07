@@ -4,59 +4,17 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<!-- ─── UNBEATABLE HEADER SECTION ─────────────────────────────────────────── -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,5,20&height=280&section=header&text=Vinit%20Jangir&fontSize=70&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20OSS%20Contributor&descAlignY=75&descSize=18" width="100%" />
-
-<br>
-
-<br><br>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+Architecting+Scalable+AI+Solutions;%3E+Specialized+in+Data+Structures+%26+Algorithms;%3E+Contributing+to+Global+ML+Infrastructure;%3E+Innovating+One+Commit+At+A+Time" alt="Typing SVG" />
-
+  <a href="https://github.com/codervinitjangir/codervinitjangir">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/main/dark_mode.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/main/light_mode.svg">
+      <img alt="Vinit Jangir's GitHub Profile README" src="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/main/dark_mode.svg" width="100%">
+    </picture>
+  </a>
 </div>
 
 ---
 
-<!-- ─── THE SYSTEM TERMINAL ──────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `> system --status`
-
-</div>
-
-```python
-class VinitJangir:
-    """
-    Architecting full-stack ecosystems and deploying high-performance AI models.
-    Bridging the gap between raw data and kinetic logic.
-    """
-
-    def __init__(self):
-        self.identity   = "Vinit Jangir"
-        self.education  = "B.Tech CS (AI & ML) @ Polaris School of Technology"
-        self.dsa_status = "Python isn't my crutch — it's my scalpel. (250+ Solved)"
-
-    def get_open_source_impact(self):
-        return {
-            "focus"         : "Optimizing inference algorithms and fixing bugs in ML libraries",
-            "organizations" : ["pgmpy", "sktime", "aiondemand", "p5.js", "openml-python"]
-        }
-
-    def execute_daily_routine(self):
-        while True:
-            self.solve_complex_problems()
-            self.contribute_to_oss()
-            self.scale_systems(docker=True, k8s=True)
-            if self.is_night():
-                self.debug(coffee=True)
-```
-
----
 
 <!-- ─── MILESTONES & RECOGNITION ────────────────────────────────────────── -->
 
