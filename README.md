@@ -129,23 +129,11 @@
 
 ---
 
-<!-- ─── IMPACT & ANALYTICS ──────────────────────────────────────────────── -->
+<!-- ─── ENGINEERING ANALYTICS & STATS ──────────────────────────────────── -->
 
 <div align="center">
 
-### 📊 Excellence & Analytics
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codervinitjangir&theme=redical&bg_color=0D1117&color=FF0000&line=FFD700&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ System Performance
+### 📊 System Performance & Analytics
 
 <br>
 
@@ -175,9 +163,9 @@
 ### 🐍 The Contribution Pipeline
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codervinitjangir/codervinitjangir/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codervinitjangir/codervinitjangir/blob/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/codervinitjangir/codervinitjangir/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/codervinitjangir/codervinitjangir/output/github-snake-dark.svg" />
 </picture>
 
 <br>
